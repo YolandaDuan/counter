@@ -1,8 +1,11 @@
+import React from "react";
 
 function App() {
+  
   return (
     <div className="App">
-      <h1>hello yolanda</h1>
+      <h1>Counter Project</h1>
+
     </div>
   );
 }
